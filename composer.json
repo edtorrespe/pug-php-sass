@@ -1,0 +1,12 @@
+{
+    "name": "edtorrespe/pug-php-sass",
+    "authors": [
+        {
+            "name": "Eduardo Torres C.",
+            "email": "edtorres.pe@gmail.com"
+        }
+    ],
+    "require": {
+        "pug-php/pug": "^3.4"
+    }
+}
