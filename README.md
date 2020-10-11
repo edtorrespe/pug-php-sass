@@ -1,4 +1,4 @@
-# Pug-PHP SASS
+# Project using Pug-PHP SASS
 
 ## Install
 
