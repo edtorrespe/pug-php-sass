@@ -43,9 +43,9 @@ gulp.task('sass', () => {
     .pipe(sass({
       outputStyle: "compressed"
     }))
-    // .pipe(postcss(
-    //   cssPlugins
-    // ))
+    .pipe(postcss(
+      cssPlugins
+    ))
     .pipe(gulp.dest(
       paths.style.dest
     ))
